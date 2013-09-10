@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">出租车绕路检测</string>
+    <string name="hello_world">欢迎使用出租车绕路检测应用。为确保应用的准确性，请在车辆开动之前打开您的GPS和数据流量。
+        \n点击定位按钮开始你的旅程吧~</string>
+    <string name="title_activity_gps_example">出租车绕路检测</string>
+
+</resources>
